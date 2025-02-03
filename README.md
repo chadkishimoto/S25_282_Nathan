@@ -1,1 +1,3 @@
-# S25_282_Nathan
+## Spring 2025
+
+This is the PHYS 282 repository for: 
